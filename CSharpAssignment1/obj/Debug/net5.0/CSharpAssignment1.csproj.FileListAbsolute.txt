@@ -1,0 +1,16 @@
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.exe
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.deps.json
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.runtimeconfig.json
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.runtimeconfig.dev.json
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.dll
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\bin\Debug\net5.0\ref\CSharpAssignment1.dll
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.pdb
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.AssemblyInfoInputs.cache
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.AssemblyInfo.cs
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.dll
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\obj\Debug\net5.0\ref\CSharpAssignment1.dll
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.pdb
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.genruntimeconfig.cache
+C:\Users\Vishnuraj\Desktop\C# Projrcts\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.csproj.AssemblyReference.cache
